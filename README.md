@@ -1,6 +1,7 @@
-Conformalized Decision Risk Assessment
+<h1>Conformalized Decision Risk Assessment</h1>
 
-**Abstract**:
+
+<h2>Abstract</h2>
 
 High-stakes decisions in domains such as healthcare, energy, and public policy are often made by human experts using domain knowledge and heuristics, yet are increasingly supported by predictive and optimization-based tools.
 A dominant approach in operations research is the predict-then-optimize paradigm, where a predictive model estimates uncertain inputs, and an optimization model recommends a decision.
